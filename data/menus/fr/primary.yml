@@ -1,8 +1,8 @@
 ---
 title: Menu principal
 items:
-- title: Actualités
-  slug: actualites
+- title: About me
+  slug: about-me
   target: "/actualites/"
   kind: page
   new_tab: false
