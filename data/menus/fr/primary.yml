@@ -10,8 +10,8 @@ items:
   descendants_targets: []
   path: "/posts"
   file: content/fr/posts/_index.html
-- title: Writing
-  slug: writing
+- title: Academic publications
+  slug: academic-publications
   target: "/writing/"
   kind: page
   new_tab: false
