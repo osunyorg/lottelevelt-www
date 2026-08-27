@@ -16,7 +16,7 @@ Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
 from = "/equipe/equipe-editoriale/index.html"
-to = "/about-me/equipe-editoriale/"
+to = "/-1/equipe-editoriale/"
 
 [[redirects]]
 from = "/equipe/index.html"
@@ -25,4 +25,8 @@ to = "/-1/"
 [[redirects]]
 from = "/about-me/index.html"
 to = "/-1/"
+
+[[redirects]]
+from = "/about-me/equipe-editoriale/index.html"
+to = "/-1/equipe-editoriale/"
 
