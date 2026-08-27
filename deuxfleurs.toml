@@ -20,5 +20,9 @@ to = "/about-me/equipe-editoriale/"
 
 [[redirects]]
 from = "/equipe/index.html"
-to = "/about-me/"
+to = "/-1/"
+
+[[redirects]]
+from = "/about-me/index.html"
+to = "/-1/"
 
