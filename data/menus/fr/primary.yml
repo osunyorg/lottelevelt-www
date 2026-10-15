@@ -1,8 +1,8 @@
 ---
 title: Menu principal
 items:
-- title: Blog
-  slug: blog
+- title: Texts
+  slug: texts
   target: "/actualites/"
   kind: page
   new_tab: false
