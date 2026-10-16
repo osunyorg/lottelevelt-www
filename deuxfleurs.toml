@@ -15,6 +15,10 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
+from = "/actualites/2026-10-15-lets-talk-about-sampling-degrowth-compatibility-and-profit-logics/index.html"
+to = "/actualites/2024-06-15-lets-talk-about-sampling-degrowth-compatibility-and-profit-logics/"
+
+[[redirects]]
 from = "/actualites/2026-10-15-regeneration-sufficiency-and-degrowth-an-integrative-review-of-organising-in-a-strong-sustainability/index.html"
 to = "/actualites/2026-01-01-regeneration-sufficiency-and-degrowth-an-integrative-review-of-organising-in-a-strong-sustainability/"
 
@@ -45,6 +49,10 @@ to = "/actualites/2025-10-15-degrowth-an-experience-of-being-finite-book-review/
 [[redirects]]
 from = "/about-me/equipe-editoriale/index.html"
 to = "/-1/equipe-editoriale/"
+
+[[redirects]]
+from = "/actualites/2026-10-15-weathering-the-storm-coping-strategies-of-post-growth-businesses/index.html"
+to = "/actualites/2025-04-15-weathering-the-storm-coping-strategies-of-post-growth-businesses/"
 
 [[redirects]]
 from = "/actualites/2026-10-15-unravelling-the-persistent-problem-of-unhealthy-diets-a-system-analysis-of-the-dutch-food-retail-sys/index.html"
