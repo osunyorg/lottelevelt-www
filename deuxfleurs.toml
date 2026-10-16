@@ -15,6 +15,14 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
+from = "/actualites/2026-10-15-regeneration-sufficiency-and-degrowth-an-integrative-review-of-organising-in-a-strong-sustainability/index.html"
+to = "/actualites/2026-01-01-regeneration-sufficiency-and-degrowth-an-integrative-review-of-organising-in-a-strong-sustainability/"
+
+[[redirects]]
+from = "/actualites/2026-10-15-speaking-truth-to-power-exploring-a-ministrys-evaluation-department-through-evaluators-and-policymak/index.html"
+to = "/actualites/2022-10-15-speaking-truth-to-power-exploring-a-ministrys-evaluation-department-through-evaluators-and-policymak/"
+
+[[redirects]]
 from = "/equipe/equipe-editoriale/index.html"
 to = "/-1/equipe-editoriale/"
 
@@ -23,10 +31,22 @@ from = "/equipe/index.html"
 to = "/-1/"
 
 [[redirects]]
+from = "/actualites/2026-10-15-business-model-innovation-for-strong-sustainability-conceptualizing-degrowth-value-creation-in-the-d/index.html"
+to = "/actualites/2025-10-15-business-model-innovation-for-strong-sustainability-conceptualizing-degrowth-value-creation-in-the-d/"
+
+[[redirects]]
 from = "/about-me/index.html"
 to = "/-1/"
 
 [[redirects]]
+from = "/actualites/2026-10-15-degrowth-an-experience-of-being-finite-book-review/index.html"
+to = "/actualites/2025-10-15-degrowth-an-experience-of-being-finite-book-review/"
+
+[[redirects]]
 from = "/about-me/equipe-editoriale/index.html"
 to = "/-1/equipe-editoriale/"
+
+[[redirects]]
+from = "/actualites/2026-10-15-unravelling-the-persistent-problem-of-unhealthy-diets-a-system-analysis-of-the-dutch-food-retail-sys/index.html"
+to = "/actualites/2024-01-01-unravelling-the-persistent-problem-of-unhealthy-diets-a-system-analysis-of-the-dutch-food-retail-sys/"
 
