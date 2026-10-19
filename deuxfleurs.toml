@@ -15,46 +15,138 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
+from = "/-1/lotte-levelt/actualites/index.html"
+to = "/fr/-1/lotte-levelt/actualites/"
+
+[[redirects]]
+from = "/-1/lotte-levelt/index.html"
+to = "/fr/-1/lotte-levelt/"
+
+[[redirects]]
+from = "/politique-de-confidentialite/index.html"
+to = "/fr/politique-de-confidentialite/"
+
+[[redirects]]
 from = "/actualites/2026-10-15-lets-talk-about-sampling-degrowth-compatibility-and-profit-logics/index.html"
-to = "/actualites/2024-06-15-lets-talk-about-sampling-degrowth-compatibility-and-profit-logics/"
+to = "/fr/actualites/2024-06-15-lets-talk-about-sampling-degrowth-compatibility-and-profit-logics/"
+
+[[redirects]]
+from = "/-1/index.html"
+to = "/fr/-1/"
+
+[[redirects]]
+from = "/organisations/klimaatgesprekken/index.html"
+to = "/fr/organisations/klimaatgesprekken/"
 
 [[redirects]]
 from = "/actualites/2026-10-15-regeneration-sufficiency-and-degrowth-an-integrative-review-of-organising-in-a-strong-sustainability/index.html"
-to = "/actualites/2026-01-01-regeneration-sufficiency-and-degrowth-an-integrative-review-of-organising-in-a-strong-sustainability/"
+to = "/fr/actualites/2026-01-01-regeneration-sufficiency-and-degrowth-an-integrative-review-of-organising-in-a-strong-sustainability/"
 
 [[redirects]]
 from = "/actualites/2026-10-15-speaking-truth-to-power-exploring-a-ministrys-evaluation-department-through-evaluators-and-policymak/index.html"
-to = "/actualites/2022-10-15-speaking-truth-to-power-exploring-a-ministrys-evaluation-department-through-evaluators-and-policymak/"
+to = "/fr/actualites/2022-10-15-speaking-truth-to-power-exploring-a-ministrys-evaluation-department-through-evaluators-and-policymak/"
+
+[[redirects]]
+from = "/mentions-legales/index.html"
+to = "/fr/mentions-legales/"
+
+[[redirects]]
+from = "/actualites/2025-10-15-degrowth-an-experience-of-being-finite-book-review/index.html"
+to = "/fr/actualites/2025-10-15-degrowth-an-experience-of-being-finite-book-review/"
 
 [[redirects]]
 from = "/equipe/equipe-editoriale/index.html"
-to = "/-1/equipe-editoriale/"
+to = "/fr/-1/equipe-editoriale/"
+
+[[redirects]]
+from = "/contact/index.html"
+to = "/fr/contact/"
+
+[[redirects]]
+from = "/organisations/degrowth-journal/index.html"
+to = "/fr/organisations/degrowth-journal/"
 
 [[redirects]]
 from = "/equipe/index.html"
-to = "/-1/"
+to = "/fr/-1/"
+
+[[redirects]]
+from = "/accessibilite/index.html"
+to = "/fr/accessibilite/"
+
+[[redirects]]
+from = "/actualites/2025-04-15-weathering-the-storm-coping-strategies-of-post-growth-businesses/index.html"
+to = "/fr/actualites/2025-04-15-weathering-the-storm-coping-strategies-of-post-growth-businesses/"
+
+[[redirects]]
+from = "/actualites/2024-01-01-unravelling-the-persistent-problem-of-unhealthy-diets-a-system-analysis-of-the-dutch-food-retail-sys/index.html"
+to = "/fr/actualites/2024-01-01-unravelling-the-persistent-problem-of-unhealthy-diets-a-system-analysis-of-the-dutch-food-retail-sys/"
 
 [[redirects]]
 from = "/actualites/2026-10-15-business-model-innovation-for-strong-sustainability-conceptualizing-degrowth-value-creation-in-the-d/index.html"
-to = "/actualites/2025-10-15-business-model-innovation-for-strong-sustainability-conceptualizing-degrowth-value-creation-in-the-d/"
+to = "/fr/actualites/2025-10-15-business-model-innovation-for-strong-sustainability-conceptualizing-degrowth-value-creation-in-the-d/"
 
 [[redirects]]
 from = "/about-me/index.html"
-to = "/-1/"
+to = "/fr/-1/"
+
+[[redirects]]
+from = "/organisations/index.html"
+to = "/fr/organisations/"
+
+[[redirects]]
+from = "/-1/equipe-editoriale/index.html"
+to = "/fr/-1/equipe-editoriale/"
+
+[[redirects]]
+from = "/organisations/sufficiency-in-business-network/index.html"
+to = "/fr/organisations/sufficiency-in-business-network/"
+
+[[redirects]]
+from = "/actualites/2024-06-15-lets-talk-about-sampling-degrowth-compatibility-and-profit-logics/index.html"
+to = "/fr/actualites/2024-06-15-lets-talk-about-sampling-degrowth-compatibility-and-profit-logics/"
 
 [[redirects]]
 from = "/actualites/2026-10-15-degrowth-an-experience-of-being-finite-book-review/index.html"
-to = "/actualites/2025-10-15-degrowth-an-experience-of-being-finite-book-review/"
+to = "/fr/actualites/2025-10-15-degrowth-an-experience-of-being-finite-book-review/"
+
+[[redirects]]
+from = "/organisations/nyenrode-business-university/index.html"
+to = "/fr/organisations/nyenrode-business-university/"
 
 [[redirects]]
 from = "/about-me/equipe-editoriale/index.html"
-to = "/-1/equipe-editoriale/"
+to = "/fr/-1/equipe-editoriale/"
+
+[[redirects]]
+from = "/fichiers/index.html"
+to = "/fr/fichiers/"
+
+[[redirects]]
+from = "/actualites/index.html"
+to = "/fr/actualites/"
+
+[[redirects]]
+from = "/actualites/2026-01-01-regeneration-sufficiency-and-degrowth-an-integrative-review-of-organising-in-a-strong-sustainability/index.html"
+to = "/fr/actualites/2026-01-01-regeneration-sufficiency-and-degrowth-an-integrative-review-of-organising-in-a-strong-sustainability/"
 
 [[redirects]]
 from = "/actualites/2026-10-15-weathering-the-storm-coping-strategies-of-post-growth-businesses/index.html"
-to = "/actualites/2025-04-15-weathering-the-storm-coping-strategies-of-post-growth-businesses/"
+to = "/fr/actualites/2025-04-15-weathering-the-storm-coping-strategies-of-post-growth-businesses/"
+
+[[redirects]]
+from = "/plan-du-site/index.html"
+to = "/fr/plan-du-site/"
+
+[[redirects]]
+from = "/actualites/2022-10-15-speaking-truth-to-power-exploring-a-ministrys-evaluation-department-through-evaluators-and-policymak/index.html"
+to = "/fr/actualites/2022-10-15-speaking-truth-to-power-exploring-a-ministrys-evaluation-department-through-evaluators-and-policymak/"
+
+[[redirects]]
+from = "/actualites/2025-10-15-business-model-innovation-for-strong-sustainability-conceptualizing-degrowth-value-creation-in-the-d/index.html"
+to = "/fr/actualites/2025-10-15-business-model-innovation-for-strong-sustainability-conceptualizing-degrowth-value-creation-in-the-d/"
 
 [[redirects]]
 from = "/actualites/2026-10-15-unravelling-the-persistent-problem-of-unhealthy-diets-a-system-analysis-of-the-dutch-food-retail-sys/index.html"
-to = "/actualites/2024-01-01-unravelling-the-persistent-problem-of-unhealthy-diets-a-system-analysis-of-the-dutch-food-retail-sys/"
+to = "/fr/actualites/2024-01-01-unravelling-the-persistent-problem-of-unhealthy-diets-a-system-analysis-of-the-dutch-food-retail-sys/"
 
