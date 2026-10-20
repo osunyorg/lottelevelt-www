@@ -9,6 +9,12 @@ en:
   buildFuture: true
   params:
     contact_details:
+      social_networks:
+        linkedin:
+          label: >-
+            lotte-levelt-274076b1
+          value: >-
+            https://www.linkedin.com/in/lotte-levelt-274076b1/
 
   taxonomies:
     administrator: administrators
