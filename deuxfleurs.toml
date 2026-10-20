@@ -75,6 +75,10 @@ from = "/actualites/2025-04-15-weathering-the-storm-coping-strategies-of-post-gr
 to = "/fr/actualites/2025-04-15-weathering-the-storm-coping-strategies-of-post-growth-businesses/"
 
 [[redirects]]
+from = "/en/posts/2026-01-01-regeneration-sufficiency-and-degrowth-an-integrative-review-of-organising-in-a-strong-sustainability-2/index.html"
+to = "/en/posts/2026-10-20-regeneration-sufficiency-and-degrowth-an-integrative-review-of-organising-in-a-strong-sustainability-2/"
+
+[[redirects]]
 from = "/actualites/2024-01-01-unravelling-the-persistent-problem-of-unhealthy-diets-a-system-analysis-of-the-dutch-food-retail-sys/index.html"
 to = "/fr/actualites/2024-01-01-unravelling-the-persistent-problem-of-unhealthy-diets-a-system-analysis-of-the-dutch-food-retail-sys/"
 
