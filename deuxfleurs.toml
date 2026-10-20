@@ -39,10 +39,6 @@ from = "/organisations/klimaatgesprekken/index.html"
 to = "/fr/organisations/klimaatgesprekken/"
 
 [[redirects]]
-from = "/actualites/2026-10-15-regeneration-sufficiency-and-degrowth-an-integrative-review-of-organising-in-a-strong-sustainability/index.html"
-to = "/fr/actualites/2026-01-01-regeneration-sufficiency-and-degrowth-an-integrative-review-of-organising-in-a-strong-sustainability/"
-
-[[redirects]]
 from = "/actualites/2026-10-15-speaking-truth-to-power-exploring-a-ministrys-evaluation-department-through-evaluators-and-policymak/index.html"
 to = "/fr/actualites/2022-10-15-speaking-truth-to-power-exploring-a-ministrys-evaluation-department-through-evaluators-and-policymak/"
 
@@ -125,10 +121,6 @@ to = "/fr/fichiers/"
 [[redirects]]
 from = "/actualites/index.html"
 to = "/fr/actualites/"
-
-[[redirects]]
-from = "/actualites/2026-01-01-regeneration-sufficiency-and-degrowth-an-integrative-review-of-organising-in-a-strong-sustainability/index.html"
-to = "/fr/actualites/2026-01-01-regeneration-sufficiency-and-degrowth-an-integrative-review-of-organising-in-a-strong-sustainability/"
 
 [[redirects]]
 from = "/actualites/2026-10-15-weathering-the-storm-coping-strategies-of-post-growth-businesses/index.html"
