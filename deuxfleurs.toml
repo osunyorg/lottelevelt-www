@@ -23,16 +23,40 @@ from = "/-1/lotte-levelt/index.html"
 to = "/fr/-1/lotte-levelt/"
 
 [[redirects]]
+from = "/en/posts/2024-06-15-lets-talk-about-sampling-degrowth-compatibility-and-profit-logics/index.html"
+to = "/posts/2024-06-15-lets-talk-about-sampling-degrowth-compatibility-and-profit-logics/"
+
+[[redirects]]
+from = "/en/accessibility/index.html"
+to = "/accessibility/"
+
+[[redirects]]
 from = "/politique-de-confidentialite/index.html"
 to = "/fr/politique-de-confidentialite/"
+
+[[redirects]]
+from = "/en/persons/editors/index.html"
+to = "/persons/editors/"
 
 [[redirects]]
 from = "/actualites/2026-10-15-lets-talk-about-sampling-degrowth-compatibility-and-profit-logics/index.html"
 to = "/fr/actualites/2024-06-15-lets-talk-about-sampling-degrowth-compatibility-and-profit-logics/"
 
 [[redirects]]
+from = "/en/organizations/degrowth-journal/index.html"
+to = "/organizations/degrowth-journal/"
+
+[[redirects]]
 from = "/-1/index.html"
 to = "/fr/-1/"
+
+[[redirects]]
+from = "/en/posts/2025-10-15-business-model-innovation-for-strong-sustainability-conceptualizing-degrowth-value-creation-in-the-d/index.html"
+to = "/posts/2025-10-15-business-model-innovation-for-strong-sustainability-conceptualizing-degrowth-value-creation-in-the-d/"
+
+[[redirects]]
+from = "/en/privacy-policy/index.html"
+to = "/privacy-policy/"
 
 [[redirects]]
 from = "/organisations/klimaatgesprekken/index.html"
@@ -55,20 +79,44 @@ from = "/equipe/equipe-editoriale/index.html"
 to = "/fr/-1/equipe-editoriale/"
 
 [[redirects]]
-from = "/contact/index.html"
-to = "/fr/contact/"
+from = "/en/index.html"
+to = "/"
+
+[[redirects]]
+from = "/en/posts/2025-10-15-degrowth-an-experience-of-being-finite-book-review/index.html"
+to = "/posts/2025-10-15-degrowth-an-experience-of-being-finite-book-review/"
 
 [[redirects]]
 from = "/organisations/degrowth-journal/index.html"
 to = "/fr/organisations/degrowth-journal/"
 
 [[redirects]]
+from = "/en/files/index.html"
+to = "/files/"
+
+[[redirects]]
 from = "/equipe/index.html"
 to = "/fr/-1/"
 
 [[redirects]]
+from = "/en/contact/index.html"
+to = "/contact/"
+
+[[redirects]]
+from = "/en/posts/2024-01-01-unravelling-the-persistent-problem-of-unhealthy-diets-a-system-analysis-of-the-dutch-food-retail-sys/index.html"
+to = "/posts/2024-01-01-unravelling-the-persistent-problem-of-unhealthy-diets-a-system-analysis-of-the-dutch-food-retail-sys/"
+
+[[redirects]]
+from = "/en/posts/index.html"
+to = "/posts/"
+
+[[redirects]]
 from = "/accessibilite/index.html"
 to = "/fr/accessibilite/"
+
+[[redirects]]
+from = "/en/organizations/index.html"
+to = "/organizations/"
 
 [[redirects]]
 from = "/actualites/2025-04-15-weathering-the-storm-coping-strategies-of-post-growth-businesses/index.html"
@@ -76,7 +124,7 @@ to = "/fr/actualites/2025-04-15-weathering-the-storm-coping-strategies-of-post-g
 
 [[redirects]]
 from = "/en/posts/2026-01-01-regeneration-sufficiency-and-degrowth-an-integrative-review-of-organising-in-a-strong-sustainability-2/index.html"
-to = "/en/posts/2026-10-20-regeneration-sufficiency-and-degrowth-an-integrative-review-of-organising-in-a-strong-sustainability-2/"
+to = "/posts/2026-10-20-regeneration-sufficiency-and-degrowth-an-integrative-review-of-organising-in-a-strong-sustainability-2/"
 
 [[redirects]]
 from = "/actualites/2024-01-01-unravelling-the-persistent-problem-of-unhealthy-diets-a-system-analysis-of-the-dutch-food-retail-sys/index.html"
@@ -91,8 +139,16 @@ from = "/about-me/index.html"
 to = "/fr/-1/"
 
 [[redirects]]
+from = "/en/legal-terms/index.html"
+to = "/legal-terms/"
+
+[[redirects]]
 from = "/organisations/index.html"
 to = "/fr/organisations/"
+
+[[redirects]]
+from = "/en/posts/2026-10-20-regeneration-sufficiency-and-degrowth-an-integrative-review-of-organising-in-a-strong-sustainability-2/index.html"
+to = "/posts/2026-10-20-regeneration-sufficiency-and-degrowth-an-integrative-review-of-organising-in-a-strong-sustainability-2/"
 
 [[redirects]]
 from = "/-1/equipe-editoriale/index.html"
@@ -103,8 +159,16 @@ from = "/organisations/sufficiency-in-business-network/index.html"
 to = "/fr/organisations/sufficiency-in-business-network/"
 
 [[redirects]]
+from = "/en/organizations/klimaatgesprekken/index.html"
+to = "/organizations/klimaatgesprekken/"
+
+[[redirects]]
 from = "/actualites/2024-06-15-lets-talk-about-sampling-degrowth-compatibility-and-profit-logics/index.html"
 to = "/fr/actualites/2024-06-15-lets-talk-about-sampling-degrowth-compatibility-and-profit-logics/"
+
+[[redirects]]
+from = "/en/organizations/nyenrode-business-university/index.html"
+to = "/organizations/nyenrode-business-university/"
 
 [[redirects]]
 from = "/actualites/2026-10-15-degrowth-an-experience-of-being-finite-book-review/index.html"
@@ -135,8 +199,28 @@ from = "/plan-du-site/index.html"
 to = "/fr/plan-du-site/"
 
 [[redirects]]
+from = "/en/organizations/sufficiency-in-business-network/index.html"
+to = "/organizations/sufficiency-in-business-network/"
+
+[[redirects]]
 from = "/actualites/2022-10-15-speaking-truth-to-power-exploring-a-ministrys-evaluation-department-through-evaluators-and-policymak/index.html"
 to = "/fr/actualites/2022-10-15-speaking-truth-to-power-exploring-a-ministrys-evaluation-department-through-evaluators-and-policymak/"
+
+[[redirects]]
+from = "/en/persons/index.html"
+to = "/persons/"
+
+[[redirects]]
+from = "/en/sitemap/index.html"
+to = "/sitemap/"
+
+[[redirects]]
+from = "/en/posts/2025-04-15-weathering-the-storm-coping-strategies-of-post-growth-businesses/index.html"
+to = "/posts/2025-04-15-weathering-the-storm-coping-strategies-of-post-growth-businesses/"
+
+[[redirects]]
+from = "/en/posts/2022-10-15-speaking-truth-to-power-exploring-a-ministrys-evaluation-department-through-evaluators-and-policymak/index.html"
+to = "/posts/2022-10-15-speaking-truth-to-power-exploring-a-ministrys-evaluation-department-through-evaluators-and-policymak/"
 
 [[redirects]]
 from = "/actualites/2025-10-15-business-model-innovation-for-strong-sustainability-conceptualizing-degrowth-value-creation-in-the-d/index.html"
